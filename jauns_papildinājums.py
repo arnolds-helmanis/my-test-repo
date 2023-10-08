@@ -1,0 +1,1 @@
+kods ar kodu rindām
