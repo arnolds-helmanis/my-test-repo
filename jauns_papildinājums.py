@@ -1,3 +1,4 @@
+papildu izmainas
 izmainiju kaut ko
 kods ar kodu rindām
 jauna koda rinda
